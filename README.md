@@ -1,2 +1,2 @@
 # VSCP
-The backup for VSCode plugins
+The backup for VSCode plugins.
