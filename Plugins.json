@@ -1,0 +1,254 @@
+[
+    {
+        "id": "1194979849.comment-translate-baidu",
+        "name": "comment-translate-baidu",
+        "publisher": "1194979849",
+        "version": "0.0.4"
+    },
+    {
+        "id": "abusaidm.html-snippets",
+        "name": "html-snippets",
+        "publisher": "abusaidm",
+        "version": "0.2.1"
+    },
+    {
+        "id": "adelphes.android-dev-ext",
+        "name": "android-dev-ext",
+        "publisher": "adelphes",
+        "version": "0.8.0"
+    },
+    {
+        "id": "bierner.color-info",
+        "name": "color-info",
+        "publisher": "bierner",
+        "version": "0.5.1"
+    },
+    {
+        "id": "cake-build.cake-vscode",
+        "name": "cake-vscode",
+        "publisher": "cake-build",
+        "version": "0.12.0"
+    },
+    {
+        "id": "Dart-Code.dart-code",
+        "name": "dart-code",
+        "publisher": "Dart-Code",
+        "version": "3.6.0"
+    },
+    {
+        "id": "Dart-Code.flutter",
+        "name": "flutter",
+        "publisher": "Dart-Code",
+        "version": "3.6.0"
+    },
+    {
+        "id": "dbaeumer.jshint",
+        "name": "jshint",
+        "publisher": "dbaeumer",
+        "version": "0.10.21"
+    },
+    {
+        "id": "dbaeumer.vscode-eslint",
+        "name": "vscode-eslint",
+        "publisher": "dbaeumer",
+        "version": "1.9.1"
+    },
+    {
+        "id": "donjayamanne.githistory",
+        "name": "githistory",
+        "publisher": "donjayamanne",
+        "version": "0.4.6"
+    },
+    {
+        "id": "donjayamanne.javadebugger",
+        "name": "javadebugger",
+        "publisher": "donjayamanne",
+        "version": "0.1.5"
+    },
+    {
+        "id": "eamodio.gitlens",
+        "name": "gitlens",
+        "publisher": "eamodio",
+        "version": "10.2.0"
+    },
+    {
+        "id": "ecmel.vscode-html-css",
+        "name": "vscode-html-css",
+        "publisher": "ecmel",
+        "version": "0.2.3"
+    },
+    {
+        "id": "Endormi.2077-theme",
+        "name": "2077-theme",
+        "publisher": "Endormi",
+        "version": "1.4.1"
+    },
+    {
+        "id": "esbenp.prettier-vscode",
+        "name": "prettier-vscode",
+        "publisher": "esbenp",
+        "version": "3.11.0"
+    },
+    {
+        "id": "felixfbecker.php-debug",
+        "name": "php-debug",
+        "publisher": "felixfbecker",
+        "version": "1.13.0"
+    },
+    {
+        "id": "foxundermoon.shell-format",
+        "name": "shell-format",
+        "publisher": "foxundermoon",
+        "version": "6.1.3"
+    },
+    {
+        "id": "georgewfraser.vscode-javac",
+        "name": "vscode-javac",
+        "publisher": "georgewfraser",
+        "version": "0.2.30"
+    },
+    {
+        "id": "HookyQR.beautify",
+        "name": "beautify",
+        "publisher": "HookyQR",
+        "version": "1.5.0"
+    },
+    {
+        "id": "kangping.luaide",
+        "name": "luaide",
+        "publisher": "kangping",
+        "version": "1.1.9"
+    },
+    {
+        "id": "Kasik96.swift",
+        "name": "swift",
+        "publisher": "Kasik96",
+        "version": "0.1.0"
+    },
+    {
+        "id": "kiddyu.vsc-mikutap",
+        "name": "vsc-mikutap",
+        "publisher": "kiddyu",
+        "version": "0.0.1"
+    },
+    {
+        "id": "manasxx.nest",
+        "name": "nest",
+        "publisher": "manasxx",
+        "version": "0.2.0"
+    },
+    {
+        "id": "mgmcdermott.vscode-language-babel",
+        "name": "vscode-language-babel",
+        "publisher": "mgmcdermott",
+        "version": "0.0.25"
+    },
+    {
+        "id": "ms-azuretools.vscode-docker",
+        "name": "vscode-docker",
+        "publisher": "ms-azuretools",
+        "version": "0.8.2"
+    },
+    {
+        "id": "MS-CEINTL.vscode-language-pack-zh-hans",
+        "name": "vscode-language-pack-zh-hans",
+        "publisher": "MS-CEINTL",
+        "version": "1.40.2"
+    },
+    {
+        "id": "ms-python.python",
+        "name": "python",
+        "publisher": "ms-python",
+        "version": "2019.11.50794"
+    },
+    {
+        "id": "ms-vscode.cpptools",
+        "name": "cpptools",
+        "publisher": "ms-vscode",
+        "version": "0.26.1"
+    },
+    {
+        "id": "ms-vscode.csharp",
+        "name": "csharp",
+        "publisher": "ms-vscode",
+        "version": "1.21.8"
+    },
+    {
+        "id": "ms-vscode.Go",
+        "name": "Go",
+        "publisher": "ms-vscode",
+        "version": "0.11.9"
+    },
+    {
+        "id": "ms-vscode.powershell",
+        "name": "powershell",
+        "publisher": "ms-vscode",
+        "version": "2019.11.0"
+    },
+    {
+        "id": "ms-vscode.powershell-preview",
+        "name": "powershell-preview",
+        "publisher": "ms-vscode",
+        "version": "2019.11.0"
+    },
+    {
+        "id": "msjsdiag.debugger-for-chrome",
+        "name": "debugger-for-chrome",
+        "publisher": "msjsdiag",
+        "version": "4.12.1"
+    },
+    {
+        "id": "nondanee.vsc-netease-music",
+        "name": "vsc-netease-music",
+        "publisher": "nondanee",
+        "version": "0.0.34"
+    },
+    {
+        "id": "nonoroazoro.syncing",
+        "name": "syncing",
+        "publisher": "nonoroazoro",
+        "version": "3.0.9"
+    },
+    {
+        "id": "Triangel.html-preview",
+        "name": "html-preview",
+        "publisher": "Triangel",
+        "version": "0.1.0"
+    },
+    {
+        "id": "Unity.unity-debug",
+        "name": "unity-debug",
+        "publisher": "Unity",
+        "version": "2.7.2"
+    },
+    {
+        "id": "VisualStudioExptTeam.vscodeintellicode",
+        "name": "vscodeintellicode",
+        "publisher": "VisualStudioExptTeam",
+        "version": "1.2.0"
+    },
+    {
+        "id": "vscjava.vscode-java-debug",
+        "name": "vscode-java-debug",
+        "publisher": "vscjava",
+        "version": "0.23.0"
+    },
+    {
+        "id": "vscode-icons-team.vscode-icons",
+        "name": "vscode-icons",
+        "publisher": "vscode-icons-team",
+        "version": "9.6.0"
+    },
+    {
+        "id": "xabikos.JavaScriptSnippets",
+        "name": "JavaScriptSnippets",
+        "publisher": "xabikos",
+        "version": "1.7.2"
+    },
+    {
+        "id": "Zignd.html-css-class-completion",
+        "name": "html-css-class-completion",
+        "publisher": "Zignd",
+        "version": "1.19.0"
+    }
+]
